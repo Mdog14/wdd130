@@ -1,6 +1,11 @@
 main {
-    width: 80%;
+    max-width: 80%;
 }
+nav{}
+
+nav a{}
+
+h1{}
 
 aside {
     width: 250px; 
